@@ -22,14 +22,14 @@ This project features an **interactive HR Analytics Dashboard** built using Tabl
 
 ## 🧾 Key Insights Visualized
 
-- 📌 **Gender Distribution** in the company  
-- 📌 **Average Age** by department and job role  
-- 📌 **Job Role & Gender** breakdown  
-- 📌 **Marital Status** and Gender relationship  
-- 📌 **Employee Count** by Education Field  
-- 📌 **Monthly Income** by role and department  
-- 📌 **Work History** (companies worked for)  
-- 📌 **Department-wise headcounts**
+📌 **Gender Distribution** in the company  
+📌 **Average Age** by department and job role  
+📌 **Job Role & Gender** breakdown  
+📌 **Marital Status** and Gender relationship  
+📌 **Employee Count** by Education Field  
+📌 **Monthly Income** by role and department
+📌 **Work History** (companies worked for)
+📌 **Department-wise headcounts**
 
 ## 📊 Dataset Description
 
